@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "fill:#FFFFFF;">
+	<!ENTITY st1 "fill:#808080;">
+	<!ENTITY st2 "fill:#636F80;">
+	<!ENTITY st3 "opacity:0.2;fill:#FFFFFF;">
+	<!ENTITY st4 "opacity:0.2;fill:#636F80;">
+	<!ENTITY st5 "opacity:0.2;fill:#808080;">
+]>
+<svg version="1.1" id="img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="18px" height="18px" viewBox="0 0 18 18" style="enable-background:new 0 0 18 18;" xml:space="preserve">
+<path id="item-replace.default" style="&st2;" d="M7,2H3C2.448,2,2,2.448,2,3v4c0,0.552,0.448,1,1,1h4c0.552,0,1-0.448,1-1V3
+	C8,2.448,7.552,2,7,2z M7,7H3V3h4V7z M15,11h-4c-0.552,0-1,0.448-1,1v4c0,0.552,0.448,1,1,1h4c0.552,0,1-0.448,1-1v-4
+	C16,11.448,15.552,11,15,11z M15,16h-4v-4h4V16z M12,5h-2V4h2c1.103,0,2,0.897,2,2v1h2l-2.5,3L11,7h2V6C13,5.448,12.551,5,12,5z"/>
+</svg>
