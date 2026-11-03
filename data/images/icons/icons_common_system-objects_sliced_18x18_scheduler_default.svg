@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "fill:#FFFFFF;">
+	<!ENTITY st1 "fill:#BFBFBF;">
+	<!ENTITY st2 "fill:#8C8C8C;">
+	<!ENTITY st3 "fill:#71B1E4;">
+	<!ENTITY st4 "fill:#F7931E;">
+]>
+<svg version="1.1" id="img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="18px" height="18px" viewBox="0 0 18 18" style="enable-background:new 0 0 18 18;" xml:space="preserve">
+<g id="scheduler.default">
+	<rect x="6" y="1" style="&st3;" width="6" height="1"/>
+	<g>
+		<path style="&st3;" d="M9,4c3.308,0,6,2.692,6,6s-2.692,6-6,6s-6-2.692-6-6S5.692,4,9,4 M9,3c-3.866,0-7,3.134-7,7s3.134,7,7,7
+			s7-3.134,7-7S12.866,3,9,3L9,3z"/>
+	</g>
+	<g>
+		<circle style="&st3;" cx="14.673" cy="5.327" r="1.327"/>
+	</g>
+	<g>
+		<path style="&st4;" d="M9,10h5c0-1.326-0.527-2.598-1.464-3.536S10.326,5,9,5V10z"/>
+	</g>
+</g>
+</svg>

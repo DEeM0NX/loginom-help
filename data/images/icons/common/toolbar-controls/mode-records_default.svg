@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "fill:#FFFFFF;">
+	<!ENTITY st1 "fill:#808080;">
+	<!ENTITY st2 "fill:#636F80;">
+	<!ENTITY st3 "opacity:0.2;fill:#FFFFFF;">
+	<!ENTITY st4 "opacity:0.2;fill:#636F80;">
+	<!ENTITY st5 "opacity:0.2;fill:#808080;">
+]>
+<svg version="1.1" id="img" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="18px" height="18px" viewBox="0 0 18 18" style="enable-background:new 0 0 18 18;" xml:space="preserve">
+<g id="mode-records.default">
+	<g>
+		<path style="&st2;" d="M5.997,3v12h-3V3H5.997 M6.997,2h-5v14h5V2L6.997,2z"/>
+	</g>
+	<g>
+		<polygon style="&st2;" points="12.004,5 11.004,5 10.004,13 11.004,13 12.004,5 		"/>
+	</g>
+	<g>
+		<polygon style="&st2;" points="15.004,5 14.004,5 13.004,13 14.004,13 15.004,5 		"/>
+	</g>
+	<g>
+		<polygon style="&st2;" points="16.004,7 9.004,7 9.004,8 16.004,8 16.004,7 		"/>
+	</g>
+	<g>
+		<polygon style="&st2;" points="16.004,10 9.004,10 9.004,11 16.004,11 16.004,10 		"/>
+	</g>
+</g>
+</svg>
